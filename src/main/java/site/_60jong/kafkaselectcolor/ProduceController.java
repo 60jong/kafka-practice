@@ -13,7 +13,6 @@ import java.util.Date;
 
 @Slf4j
 @RequiredArgsConstructor
-@CrossOrigin(origins = "*", allowedHeaders = "*")
 @RestController
 public class ProduceController {
 
